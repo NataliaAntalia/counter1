@@ -1,7 +1,7 @@
 {
   "name": "counter1",
   "version": "0.1.0",
-  "homepage": "https://Natalia.github.io/my-awesome-project",
+  "homepage": "https://Natalia.github.io/counter1",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
